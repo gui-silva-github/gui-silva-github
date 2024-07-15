@@ -8,7 +8,6 @@ I have a keen interest in both frontend and backend development and I'm always s
 <div>
   <a href="https://github.com/Gui-silva-GitHub">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gui-silva-github&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-silva-github&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <hr>
