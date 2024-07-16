@@ -1,4 +1,4 @@
-# Guilherme Silva - Desenvolvedor FrontEnd e BackEnd
+# Guilherme Silva - Desenvolvedor Full Stack
 
 - 👋 Hi, I’m Guilherme Silva
 
