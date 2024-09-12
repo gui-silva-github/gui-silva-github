@@ -135,9 +135,10 @@ I have a keen interest in both frontend and backend development and I'm always s
 
 ### Pessoais
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=trendfusion)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=costsReact)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=senhasOcultas)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=soltaVoz)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=senhasOcultas)
 
 ### Aplicativos
 
