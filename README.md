@@ -10,7 +10,7 @@ I have a keen interest in both frontend and backend development and I'm always s
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gui-silva-github&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui-silva-github&layout=compact&theme=chartreuse-dark&langs_count=12&exclude_repo=python-projects,socialMedia,personalPortfolio)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui-silva-github&layout=compact&theme=chartreuse-dark&langs_count=12&exclude_repo=python-projects)
 
 <hr>
 
