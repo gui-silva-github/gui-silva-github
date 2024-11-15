@@ -35,10 +35,16 @@ I have a keen interest in both frontend and backend development and I'm always s
 ### Frameworks FrontEnd
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gui-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Gui-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Gui-Angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg">
    <img align="center" alt="Gui-Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Gui-TailwindCSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+</div>
+
+### Bibliotecas FrontEnd
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gui-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Gui-JQuery" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg">
 </div>
 
 ### Ambiente de Execução
