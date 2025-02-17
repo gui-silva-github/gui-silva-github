@@ -129,7 +129,7 @@ I have a keen interest in both frontend and backend development and I'm always s
 ## Progresso
 
 - 👀 I’m interested in pursuing an internship in programming or making connections and friendships with individuals in this field.
-- 📫 How to reach me Feel free to reach out to me via email (guilhermeviniciusbispodasilva@gmail.com), LinkedIn (https://www.linkedin.com/in/guilherme-silva-faacg/) or Discord (GuiEx -> gui_silva_pr). I am always open to new opportunities and collaborations.
+- 📫 How to reach me Feel free to reach out to me via email (guilhermeviniciusbispodasilva@gmail.com), LinkedIn (https://www.linkedin.com/in/guilherme-silva-fatec/) or Discord (GuiEx -> gui_silva_pr). I am always open to new opportunities and collaborations.
 
 <hr>
 
@@ -142,6 +142,7 @@ I have a keen interest in both frontend and backend development and I'm always s
 ### Pessoais
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=trendfusion)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=talknet)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=costsReact)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=soltaVoz)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=senhasOcultas)
@@ -151,15 +152,20 @@ I have a keen interest in both frontend and backend development and I'm always s
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=app-senhaMania)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=app-gbitcoin)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=app-imc)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=gasolinaAlcool)
 
 ### Sistemas
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=guitify)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=auth-guard)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=car-manager)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=barberShop)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=app_help_ti)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=sgeJugler)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=app_lista_tarefas)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=app_send_mail)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=chatNodeJS)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=authenticationSystem)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=sgeJugler)
 
 ### Serviços
 
@@ -185,6 +191,7 @@ I have a keen interest in both frontend and backend development and I'm always s
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=climaApp)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=pizzariaApp)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=relogioAnalogico)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=jQuery-ajax_projects)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=appleWatch)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=crudLocalStorage)
 
@@ -197,6 +204,7 @@ I have a keen interest in both frontend and backend development and I'm always s
 
 ### Jogos
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=flappybird-java)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=mataMosca)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=areaFight)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=pokedex)
