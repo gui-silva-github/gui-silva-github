@@ -18,11 +18,12 @@ I have a keen interest in both frontend and backend development and I'm always s
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gui-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gui-PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img align="center" alt="Gui-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Gui-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gui-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="Gui-C#" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Gui-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 
 ### Linguagem de Marcação e Estilização
@@ -144,6 +145,7 @@ I have a keen interest in both frontend and backend development and I'm always s
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=trendfusion)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=talknet)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=costsReact)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=auth-guard)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=soltaVoz)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=senhasOcultas)
 
@@ -178,6 +180,7 @@ I have a keen interest in both frontend and backend development and I'm always s
 
 ### Protótipos
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=guitify)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=python-projects)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=headerReact)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=siteModels)
@@ -194,6 +197,7 @@ I have a keen interest in both frontend and backend development and I'm always s
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=jQuery-ajax_projects)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=appleWatch)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=crudLocalStorage)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=calcBase)
 
 ### Sites
 
@@ -218,6 +222,10 @@ I have a keen interest in both frontend and backend development and I'm always s
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=blogJSON)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=stopWatch)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=verificadorDeIdade)
+
+### Curso de ReactJs 2025
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=react-essentials)
 
 <hr>
 
