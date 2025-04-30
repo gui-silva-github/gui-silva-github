@@ -1,4 +1,4 @@
-# Guilherme Silva - Desenvolvedor Full Stack
+# Guilherme Silva - Desenvolvedor Web
 
 - 👋 Hi, I’m Guilherme Silva
 
