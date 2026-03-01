@@ -1,4 +1,4 @@
-# Guilherme Silva - Desenvolvedor Web
+# Guilherme Silva - Desenvolvedor FullStack
 
 - 👋 Hi, I’m Guilherme Silva
 
@@ -10,7 +10,7 @@ I have a keen interest in both frontend and backend development and I'm always s
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gui-silva-github&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui-silva-github&layout=compact&theme=chartreuse-dark&langs_count=15&exclude_repo=python-projects)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui-silva-github&layout=compact&theme=chartreuse-dark&langs_count=15&cache_seconds=1800)
 
 <hr>
 
@@ -19,6 +19,7 @@ I have a keen interest in both frontend and backend development and I'm always s
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gui-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Gui-C#" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Gui-PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img align="center" alt="Gui-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Gui-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -53,7 +54,6 @@ I have a keen interest in both frontend and backend development and I'm always s
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 </div>
-
 
 ### Frameworks BackEnd
 
@@ -129,105 +129,5 @@ I have a keen interest in both frontend and backend development and I'm always s
 ## Progresso
 
 - 👀 I’m interested in pursuing an internship in programming or making connections and friendships with individuals in this field.
-- 📫 How to reach me Feel free to reach out to me via email (guilhermeviniciusbispodasilva@gmail.com), LinkedIn (https://www.linkedin.com/in/guilherme-silva-fatec/) or Discord (GuiEx -> gui_silva_pr). I am always open to new opportunities and collaborations.
+- 📫 How to reach me Feel free to reach out to me via email (guisilvadevrc@gmail.com), LinkedIn (https://www.linkedin.com/in/guilherme-silva-fatec/) or Discord (GuiEx -> gui_silva_pr). I am always open to new opportunities and collaborations.
 
-<hr>
-
-## Projetos
-
-### TCC
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=kepler-sge)
-
-### Pessoais
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=trendfusion)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=talknet)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=costsReact)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=auth-guard)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=soltaVoz)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=senhasOcultas)
-
-### Aplicativos
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=app-senhaMania)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=app-gbitcoin)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=app-imc)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=gasolinaAlcool)
-
-### Sistemas
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=guitify)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=auth-guard)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=car-manager)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=barberShop)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=app_help_ti)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=app_lista_tarefas)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=app_send_mail)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=chatNodeJS)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=authenticationSystem)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=sgeJugler)
-
-### Serviços
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=acervoLiterario)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=worldExplorer)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=gui-fit)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=gui-crypto)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=firebaseToDo)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=news-usa)
-
-### Protótipos
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=guitify)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=python-projects)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=headerReact)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=siteModels)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=socialMedia)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=quizApp)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=guiShoppingCart)
-
-### Desafios
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=imageSearch)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=climaApp)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=pizzariaApp)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=relogioAnalogico)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=jQuery-ajax_projects)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=appleWatch)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=crudLocalStorage)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=calcBase)
-
-### Sites
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=personalPortfolio)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=siteStarbucks)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=siteSpotify)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=siteFinans)
-
-### Jogos
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=flappybird-java)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=mataMosca)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=areaFight)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=pokedex)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=urnaEletronica)
-
-### Básicos
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=listaDeTarefas)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=calculadora)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=crudJava)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=blogJSON)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=stopWatch)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=verificadorDeIdade)
-
-### Curso de ReactJs 2025
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-silva-github&repo=react-essentials)
-
-<hr>
-
-## Conhecimentos
-
-Thank you for visiting my profile and checking out my projects. Feel free to explore the repositories and provide feedback. Together, we can create something amazing! 😊
